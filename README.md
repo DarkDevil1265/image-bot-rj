@@ -12,15 +12,15 @@
 
   </a>
   
-  <a href="https://github.com/MRK-YT/MT-Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Image-Editor?label=Fork&style=social">
+  <a href="https://github.com/DarkDevil1265/image-bot-rj/fork">
+    <img src="https://img.shields.io/github/fork?lhttps://github.com/DarkDevil1265/image-bot-rjabel=Fork&style=social">
 
   </a>  
 </p>
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/MRK-YT/MT-Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MRK-YT/MT-Image-Editor)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/DarkDevil1265/image-bot-rj/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/DarkDevil1265/image-bot-rj)
 
 #### An open source image editor which can manipulate an image in many ways!
 #### If you need any more modes in repo or If you find out any bugs, mention in @TroJanzSupport
@@ -28,7 +28,7 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkDevil1265/image-bot-rj)
 
 ### Deploy in your vps
 ```sh
